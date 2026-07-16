@@ -22,9 +22,6 @@ The API stores data in `api/Data/medicines.json`.
 
 ![1784218009783](image/README/1784218009783.png)
 
-![1784218045352](image/README/1784218045352.png)
-
-
 ```bash
 cd client
 npm install

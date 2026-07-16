@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Assignment\\api\\api.csproj": {}
+    "D:\\Assignment\\api\\api.csproj": {}
   },
   "projects": {
-    "d:\\Assignment\\api\\api.csproj": {
+    "D:\\Assignment\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Assignment\\api\\api.csproj",
+        "projectUniqueName": "D:\\Assignment\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "d:\\Assignment\\api\\api.csproj",
+        "projectPath": "D:\\Assignment\\api\\api.csproj",
         "packagesPath": "C:\\Users\\amana\\.nuget\\packages\\",
-        "outputPath": "d:\\Assignment\\api\\obj\\",
+        "outputPath": "D:\\Assignment\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amana\\AppData\\Roaming\\NuGet\\NuGet.Config",
