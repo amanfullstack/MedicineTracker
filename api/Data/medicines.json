@@ -1,0 +1,60 @@
+{
+  "Medicines": [
+    {
+      "Id": "8d1f3b0f-7a1d-4b99-8c9f-8d8d0195d001",
+      "FullName": "Amoxicillin 500mg Capsules",
+      "Notes": "Broad-spectrum antibiotic.",
+      "ExpiryDate": "2026-08-03T00:00:00Z",
+      "Quantity": 8,
+      "Price": 12.5,
+      "Brand": "MediCare"
+    },
+    {
+      "Id": "8d1f3b0f-7a1d-4b99-8c9f-8d8d0195d002",
+      "FullName": "Paracetamol Tablets",
+      "Notes": "For fever and mild pain.",
+      "ExpiryDate": "2026-10-14T00:00:00Z",
+      "Quantity": 42,
+      "Price": 4.75,
+      "Brand": "HealthPlus"
+    },
+    {
+      "Id": "8d1f3b0f-7a1d-4b99-8c9f-8d8d0195d003",
+      "FullName": "Cough Syrup 100ml",
+      "Notes": "Sugar-free syrup.",
+      "ExpiryDate": "2026-07-28T00:00:00Z",
+      "Quantity": 6,
+      "Price": 8.99,
+      "Brand": "PharmaCare"
+    },
+    {
+      "Id": "8d1f3b0f-7a1d-4b99-8c9f-8d8d0195d004",
+      "FullName": "Vitamin D3 Capsules",
+      "Notes": "Daily supplement.",
+      "ExpiryDate": "2026-12-31T00:00:00Z",
+      "Quantity": 15,
+      "Price": 19.95,
+      "Brand": "SunWell"
+    },
+    {
+      "Id": "8995f5a2-fa4a-4f3d-a7d5-9e40615b05ec",
+      "FullName": "Naxdom",
+      "Notes": "headache",
+      "ExpiryDate": "2026-09-30T00:00:00",
+      "Quantity": 6,
+      "Price": 125,
+      "Brand": "abc"
+    }
+  ],
+  "Sales": [
+    {
+      "Id": "ce8b5782-7601-4c48-b9e2-907dfa967c64",
+      "MedicineId": "37b54011-668d-4852-a9fc-fa55b1d81fad",
+      "MedicineName": "Naxdom",
+      "QuantitySold": 1,
+      "UnitPrice": 125,
+      "TotalAmount": 125,
+      "SoldOn": "2026-07-16T15:29:15.7850215Z"
+    }
+  ]
+}

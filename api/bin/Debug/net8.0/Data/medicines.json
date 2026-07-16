@@ -1,0 +1,41 @@
+{
+  "medicines": [
+    {
+      "id": "8d1f3b0f-7a1d-4b99-8c9f-8d8d0195d001",
+      "fullName": "Amoxicillin 500mg Capsules",
+      "notes": "Broad-spectrum antibiotic.",
+      "expiryDate": "2026-08-03T00:00:00Z",
+      "quantity": 8,
+      "price": 12.5,
+      "brand": "MediCare"
+    },
+    {
+      "id": "8d1f3b0f-7a1d-4b99-8c9f-8d8d0195d002",
+      "fullName": "Paracetamol Tablets",
+      "notes": "For fever and mild pain.",
+      "expiryDate": "2026-10-14T00:00:00Z",
+      "quantity": 42,
+      "price": 4.75,
+      "brand": "HealthPlus"
+    },
+    {
+      "id": "8d1f3b0f-7a1d-4b99-8c9f-8d8d0195d003",
+      "fullName": "Cough Syrup 100ml",
+      "notes": "Sugar-free syrup.",
+      "expiryDate": "2026-07-28T00:00:00Z",
+      "quantity": 6,
+      "price": 8.99,
+      "brand": "PharmaCare"
+    },
+    {
+      "id": "8d1f3b0f-7a1d-4b99-8c9f-8d8d0195d004",
+      "fullName": "Vitamin D3 Capsules",
+      "notes": "Daily supplement.",
+      "expiryDate": "2026-12-31T00:00:00Z",
+      "quantity": 15,
+      "price": 19.95,
+      "brand": "SunWell"
+    }
+  ],
+  "sales": []
+}
