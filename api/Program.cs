@@ -6,7 +6,7 @@ builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
     {
-        Title = "Medicine Tracker API",
+        Title = "ABC Pharmacy Medicine Tracker API",
         Version = "v1",
         Description = "Stores medicines and sale records in a JSON file on the server."
     });

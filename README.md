@@ -1,9 +1,11 @@
-# Medicine Tracker Assignment
+# ABC Pharmacy Medicine Tracker App
 
 This workspace contains two apps:
 
 - `api` - ASP.NET Core Web API with Swagger and JSON-file storage
 - `client` - React SPA for viewing, adding, and selling medicines
+
+![1784218072481](image/README/1784218072481.png)
 
 ## API
 
@@ -17,6 +19,11 @@ Swagger is available at `http://localhost:5029/swagger` when running in developm
 The API stores data in `api/Data/medicines.json`.
 
 ## Client
+
+![1784218009783](image/README/1784218009783.png)
+
+![1784218045352](image/README/1784218045352.png)
+
 
 ```bash
 cd client
