@@ -28,10 +28,22 @@ npm install
 npm run dev
 ```
 
-The client talks to the API at `http://localhost:5029/api` by default. If the API runs on a different port, set `VITE_API_BASE_URL` before starting the client.
+The client talks to the API at `http://localhost:5029/api` by default.
 
-##Lib : 
+## Lib : 
 Ag grid for grid
+
+## Requirement
+
+Functional Requirements:
+Display the list of medicines available in System
+- The results showing the medicine attributes (except Notes) should be displayed
+in a grid.
+- There should be color indications which follow the guidelines mentioned below:
+- Red background for medicines with expiry date less than 30 days
+- Yellow background for medicines with quantity in stock less than 10
+- Page should have search capability which can query on name of medicine
+attribute. [Good to have]
 
 ## Features
 
